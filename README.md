@@ -33,7 +33,7 @@
 * [**_Linux for Developers: Jumpstart Your Linux Programming Skills_**](./books/system/Linux%20for%20Developers%20Jumpstart%20Your%20Linux%20Programming%20Skills.pdf) by William "Bo" Rothwell
 * [**_The Art of Unix Programming_**](./books/system/The%20Art%20of%20Unix%20Programming%20by%20Eric%20Steven%20Raymond.pdf) by Eric Steven Raymond
 * [**_The Linux programming interface: a Linux and UNIX system programming handbook_**](./books/system/The%20Linux%20programming%20interface%20a%20Linux%20and%20UNIX%20system%20programming%20handbook%20(Michael%20Kerrisk)%20(z-lib.org).pdf) by Michael Kerrisk
-* [**_Understanding the Linux Kernel_** Third Edition](./books/system/Understanding%20the%20Linux%20Kernel,%20Third%20Edition%20(Daniel%20P.%20Bovet,%20Marco%20Cesati)%20(Z-Library).pdf)
+* [**_Understanding the Linux Kernel_** Third Edition](./books/system/Understanding%20the%20Linux%20Kernel,%20Third%20Edition%20(Daniel%20P.%20Bovet,%20Marco%20Cesati%20Ph.D.)%20(Z-Library).pdf)
 * [**_Unix and Linux System Administration Handbook_** Fifth Edition](./books/system/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook[5thED]_Rell.pdf) by Evi Nemeth et al.
 
 ----
