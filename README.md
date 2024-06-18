@@ -6,6 +6,7 @@
 
 ## [Network](./books/network/)
 
+* [**_Linux Advanced Routing & Traffic Control HOWTO_**](./books/network/Adv-Routing-HOWTO.pdf) by Bert Hubert, Gregory Maxwell, Remco van Mook, Martijn van Oosterhout, Paul B Schroeder, and Jasper Spaans
 * [**_Linux Kernel Networking: Implementation and Theory_**](./books/network/Linux%20Kernel%20Networking%20-%20Implementation%20and%20Theory.pdf) by Rami Rosen
 * [**_Network Programming with TCP/IP_**](./books/network/Network%20Programming%20With%20TCP_IP.pdf) by Alan Dix
 * [**_TCP/IP Architecture, Design, and Implementation in Linux_**](./books/network/TCP_IP_ARCHITECTURE_DESIGN_AND_IMPLEMENT.pdf) by Sameer Seth and M. Ajaykumar Venkatesulu
