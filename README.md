@@ -40,4 +40,5 @@
 
 ---
 
-![Unix & Linux](./Unix%20%26%20Linux.png)
+![Unix](./unix.png)<br/>
+![Linux](./linux.jpg)
