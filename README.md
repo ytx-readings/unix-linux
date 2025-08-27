@@ -37,6 +37,7 @@
 * [**_The Linux programming interface: a Linux and UNIX system programming handbook_**](./books/system/The%20Linux%20programming%20interface%20a%20Linux%20and%20UNIX%20system%20programming%20handbook%20(Michael%20Kerrisk)%20(z-lib.org).pdf)
 * [**_Understanding the Linux Kernel_** Third Edition](./books/system/Understanding%20the%20Linux%20Kernel,%20Third%20Edition%20(Daniel%20P.%20Bovet,%20Marco%20Cesati%20Ph.D.)%20(Z-Library).pdf)
 * [**_Unix and Linux System Administration Handbook_** Fifth Edition](./books/system/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook[5thED]_Rell.pdf)
+* [**_UNIX Power Tools_** Third Edition](./books/system/UNIX%20Power%20Tools,%203rd%20Edition%20(Jerry%20Peek,%20Shelley%20Powers,%20Tim%20O’Reilly%20etc.)%20(Z-Library).pdf)
 
 ---
 
