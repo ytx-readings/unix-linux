@@ -23,6 +23,8 @@
 ## [Shell](./books/shell/)
 
 * [_Advanced Bash Scripting Guide_](./books/shell/0245-advanced-bash-scripting-guide.pdf)
+* [_From Bash to Z Shell_](./books/shell/From%20Bash%20to%20Z%20Shell%20Conquering%20the%20Command%20Line%20(Oliver%20Kiddle,%20Jerry%20Peek,%20Peter%20Stephenson)%20(Z-Library).pdf)
+* [_Learning Shell Scripting with Zsh_](./books/shell/Learning%20shell%20scripting%20with%20Zsh%20your%20one-stop%20guide%20to%20reading,%20writing,%20debugging%20simple%20and%20complex%20Z%20shell%20scripts%20(Festari,%20Gastón)%20(Z-Library).pdf)
 * [_Linux Shell Scripting Cookbook_](./books/shell/Linux%20Shell%20Scripting%20Cookbook%20-%20Third%20Edition.pdf)
 * [_Mastering Linux Shell Scripting_](./books/shell/mastering-linux-shell-scripting.pdf)
 * [_Mastering UNIX Shell Programming_](./books/shell/Mastering%20UNIX%20Shell%20Scripting.pdf)
