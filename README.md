@@ -29,6 +29,7 @@
 * [_Linux Shell Scripting Cookbook_](./books/shell/Linux%20Shell%20Scripting%20Cookbook%20-%20Third%20Edition.pdf)
 * [_Mastering Linux Shell Scripting_](./books/shell/mastering-linux-shell-scripting.pdf)
 * [_Mastering UNIX Shell Programming_](./books/shell/Mastering%20UNIX%20Shell%20Scripting.pdf)
+* [_Shell Programming in Unix, Linux and OS X_](./books/shell/Shell%20Programming%20in%20Unix,%20Linux%20and%20OS%20X%20(Patrick%20Wood,%20Stephen%20G.%20Kochan)%20(Z-Library).pdf)
 
 ## [System programming & management](./books/system/)
 
