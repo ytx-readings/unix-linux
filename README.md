@@ -47,6 +47,13 @@
 * [_UNIX Internals: A Practical Approach_](./books/system/UNIX%20Internals%20A%20Practical%20Approach%20(S.D.%20Pate)%20(Z-Library).djvu)
 * [_UNIX Power Tools_ Third Edition](./books/system/UNIX%20Power%20Tools,%203rd%20Edition%20(Jerry%20Peek,%20Shelley%20Powers,%20Tim%20O’Reilly%20etc.)%20(Z-Library).pdf)
 
+## [Text Editing](./books/text%20editing/)
+
+### [Emacs](./books/text%20editing/Emacs/)
+
+* [_Learn GNU Emacs_ 3rd Edition](./books/text%20editing/Emacs/Learning%20GNU%20Emacs%20(Debra%20Cameron,%20James%20Elliott,%20Marc%20Loy%20etc.)%20(Z-Library).pdf)
+* [_Mastering Emacs_](./books/text%20editing/Emacs/Mastering%20Emacs%20(Mickey%20Petersen)%20(Z-Library).pdf)
+
 ---
 
 ![Unix](./unix.png)<br/>
