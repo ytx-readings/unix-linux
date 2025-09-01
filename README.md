@@ -54,6 +54,13 @@
 * [_Learn GNU Emacs_ 3rd Edition](./books/text%20editing/Emacs/Learning%20GNU%20Emacs%20(Debra%20Cameron,%20James%20Elliott,%20Marc%20Loy%20etc.)%20(Z-Library).pdf)
 * [_Mastering Emacs_](./books/text%20editing/Emacs/Mastering%20Emacs%20(Mickey%20Petersen)%20(Z-Library).pdf)
 
+### [Vim](./books/text%20editing/Vim/)
+
+* [_Hacking Vim_](./books/text%20editing/Vim/Hacking%20Vim%20A%20Cookbook%20to%20get%20the%20Most%20out%20of%20the%20Latest%20Vim%20Editor%20From%20personalizing%20Vim%20to%20productivity%20optimizations…%20(Kim%20Schulz)%20(Z-Library).pdf)
+* [_Learning the vi and Vim Editors_](./books/text%20editing/Vim/Learning%20the%20vi%20and%20Vim%20Editors%20Power%20and%20Agility%20Beyond%20Just%20Text%20Editing%20(Arnold%20Robbins,%20Elbert%20Hannah)%20(Z-Library).pdf)
+* [_Pro Vim_](./books/text%20editing/Vim/Pro%20vim%20achieve%20greater%20understanding%20and%20practical%20workflows%20using%20this%20essential%20terminal%20application%20(Mark%20McDonnell)%20(Z-Library).pdf)
+* [_vi and Vim Editors Pocket Reference_](./books/text%20editing/Vim/vi%20and%20Vim%20Editors%20Pocket%20Reference%20Support%20for%20every%20text%20editing%20task%20(Arnold%20Robbins)%20(Z-Library).pdf)
+
 ---
 
 ![Unix](./unix.png)<br/>
