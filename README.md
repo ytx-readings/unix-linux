@@ -63,5 +63,6 @@
 
 ---
 
-![Unix](./unix.png)<br/>
-![Linux](./linux.jpg)
+![Unix](./images/unix.png)
+
+![Linux](./images/linux.jpg)
