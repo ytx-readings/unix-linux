@@ -50,6 +50,10 @@
 
 ## [Utilities](./books/utilities/)
 
+### [Parallel](./books/utilities/parallel/)
+
+- [_GNU Parallel 2018_](./books/utilities/parallel/GNU_Parallel_2018.pdf)
+
 ### [Text Editing](./books/utilities/text%20editing/)
 
 #### [Emacs](./books/utilities/text%20editing/Emacs/)
