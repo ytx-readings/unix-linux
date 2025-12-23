@@ -56,6 +56,10 @@
 
 ### [Text Editing](./books/utilities/text%20editing/)
 
+### [Coreutils](./books/utilities/text%20editing/coreutils/)
+
+- [Command line text processing with GNU coreutils](<./books/utilities/text%20editing/coreutils/Command%20line%20text%20processing%20with%20GNU%20Coreutils%20(Sundeep%20Agarwal)%20(Z-Library).pdf>)
+
 #### [Emacs](./books/utilities/text%20editing/Emacs/)
 
 - [_Learn GNU Emacs_ 3rd Edition](<./books/utilities/text%20editing/Emacs/Learning%20GNU%20Emacs%20(Debra%20Cameron,%20James%20Elliott,%20Marc%20Loy%20etc.)%20(Z-Library).pdf>)
