@@ -31,6 +31,7 @@
 - [_Mastering Linux Shell Scripting_](./books/shell/mastering-linux-shell-scripting.pdf)
 - [_Mastering UNIX Shell Programming_](./books/shell/Mastering%20UNIX%20Shell%20Scripting.pdf)
 - [_Shell Programming in Unix, Linux and OS X_](<./books/shell/Shell%20Programming%20in%20Unix,%20Linux%20and%20OS%20X%20(Patrick%20Wood,%20Stephen%20G.%20Kochan)%20(Z-Library).pdf>)
+- [_The Linux Command Line_](<./books/shell/The%20Linux%20Command%20Line%20A%20Complete%20Introduction,%202nd%20Edition%20(William%20E.%20Shotts)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 
 ## [System programming & management](./books/system/)
 
