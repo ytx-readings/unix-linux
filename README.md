@@ -35,7 +35,7 @@
 ## [System programming & management](./books/system/)
 
 - [_Advanced Unix Programming_](./books/system/Advanced%20Unix%20Programming%202nd%20Edition%20by%20Marc%20J.%20Rochkind.pdf)
-- [_How Linux Works: What Every Superuser Should Know_](./books/system/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know%202nd%20Edition.pdf)
+- [_How Linux Works: What Every Superuser Should Know_](<./books/system/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know%20(Brian%20Ward)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Linux for Developers: Jumpstart Your Linux Programming Skills_](./books/system/Linux%20for%20Developers%20Jumpstart%20Your%20Linux%20Programming%20Skills.pdf)
 - [_Linux Device Driver Development: Everything You Need To_](./books/system/Linux%20Device%20Driver%20Development_%20Everything%20you%20need%20to%20--%20John%20Madieu%20--%202,%202022%20--%20Packt%20Publishing%20--%209781803240060%20--%20457186e9fef5856f254553fe2f302423%20--%20Anna’s%20Archive.pdf)
 - [_Linux Device Drivers_ 3rd Edition](<./books/system/Linux%20Device%20Drivers%203rd%20Edition%20(%20etc.)%20(Z-Library).pdf>)
